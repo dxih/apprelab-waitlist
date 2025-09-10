@@ -12,6 +12,8 @@ This project features a sleek dark theme with blue and orange accents, database 
 **Laptop Preview**
 ![AppRelab Laptop Preview](assets/preview/laptop.png)
 
+##
+
 **Mobile Preview**
 ![AppRelab Mobile Preview](assets/preview/mobile.png)
 
