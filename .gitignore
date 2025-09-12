@@ -1,2 +1,5 @@
 waitlist.php
 waitlist.db
+vendor/
+vendor/*
+vendor/composer/*
